@@ -1,0 +1,10 @@
+body {
+  max-width: 100%;
+  width: 800px;
+  margin: 42px auto;
+}
+
+pre {
+  border: 1px dotted lightblue;
+  padding: 24px;
+}
