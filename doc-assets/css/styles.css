@@ -68,6 +68,44 @@ a:focus {
   text-decoration: none;
 }
 
+.doc-yt-box {
+  position: relative;
+}
+
+.doc-yt-box img {
+  opacity: 0.5;
+  transition: all 0.5s ease-in-out;
+}
+
+.doc-yt-box:hover img {
+  opacity: 1;
+}
+
+.youtube-icon-container {
+  position: absolute;
+  width: 70px;
+  height: 50px;
+  background: #ff0000;
+  text-align: center;
+  border-radius: 6px;
+  top: 50%;
+  left: 50%;
+  margin-left: -35px;
+  margin-top: -25px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 22px;
+  z-index: 1000;
+  transition: all 0.5s ease-in-out;
+}
+
+.doc-yt-box:hover .youtube-icon-container {
+  background: #ff0000;
+}
+
 code {
   background: #222;
   color: #fff;
@@ -665,8 +703,7 @@ select {
 }
 
 div.callout-block a {
-  color: initial;
-  color: #edfof2 !important;
+  color: #0073aa !important;
 }
 
 .callout-success {
@@ -1805,7 +1842,6 @@ pre.language-php {
   color: #000000;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   background-color: #f2f2f2;
-  *background-color: #f2f2f2;
   background-image: -moz-linear-gradient(top, #ffffff, #f2f2f2);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#f2f2f2));
   background-image: -webkit-linear-gradient(top, #ffffff, #f2f2f2);
@@ -1827,7 +1863,6 @@ pre.language-php {
   opacity: 1;
   color: #030303;
   background-color: #f2f2f2;
-  *background-color: #003bb3;
 }
 
 @media (max-width: 767.98px) {
