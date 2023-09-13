@@ -1,7 +1,7 @@
 $(function () {
   // Update the log text
 
-  const $productThumbUrl = "https://projects.bluewindlab.net/product-thumbs/"
+  const $productThumbUrl = "https://xenioushk.github.io/bwl-static-assets/thumbs/"
 
   function updatesLogTag(string) {
     let Obj = {
