@@ -1740,7 +1740,7 @@ ol.steps li::before {
 }
 
 .our-products li {
-  flex-basis: 160px;
+  flex-basis: 135px;
   text-align: center;
   padding: 6px 6px;
 }
