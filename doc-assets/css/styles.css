@@ -106,6 +106,18 @@ a:focus {
   background: #ff0000;
 }
 
+.text-center {
+  text-align: center !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-justify {
+  text-align: justify !important;
+}
+
 code {
   background: #222;
   color: #fff;
