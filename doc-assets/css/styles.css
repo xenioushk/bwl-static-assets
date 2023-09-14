@@ -1736,6 +1736,7 @@ ol.steps li::before {
   flex-wrap: wrap;
   gap: 0 24px;
   list-style: none;
+  margin-top: 24px;
 }
 
 .our-products li {
