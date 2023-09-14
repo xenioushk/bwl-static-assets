@@ -1667,7 +1667,7 @@ em {
 }
 
 p + div.doc-img-box {
-  margin-top: 0px;
+  margin-top: 12px;
 }
 
 h3.block-title + p {
@@ -1678,13 +1678,12 @@ strong.steps,
 span.steps {
   background: #0073aa;
   color: #ffffff;
-  padding: 0px 8px;
+  padding: 0px 10px;
   -webkit-border-radius: 4px;
-  border-radius: 2px;
+  border-radius: 4px;
   float: left;
   margin-right: 12px;
-  margin-top: 2px;
-  line-height: 24px;
+  line-height: 28px;
 }
 
 /*-- Automatic Step Text --*/
