@@ -1730,17 +1730,16 @@ ol.steps li::before {
 
 .our-products {
   padding: 0;
-  clear: both;
-  margin-top: 16px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0 24px;
+  list-style: none;
 }
 
 .our-products li {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  float: left;
-  width: 160px;
-  min-height: 200px;
+  flex-basis: 160px;
   text-align: center;
   padding: 6px 6px;
 }
@@ -1761,6 +1760,9 @@ ol.steps li::before {
   box-shadow: none;
   display: block;
   margin: 0 auto 6px auto;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 0 5px #cecece;
+  box-shadow: 0 0 5px #cecece;
 }
 
 #backTop {
