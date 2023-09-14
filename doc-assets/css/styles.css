@@ -1652,11 +1652,18 @@ em {
 
 .doc-img-box {
   text-align: center;
-  margin: 20px 0;
+  margin: 24px 0;
   padding: 7px;
   display: inline-block;
-  -webkit-box-shadow: 0 0 7px #b8b8b8;
-  box-shadow: 0 0 7px #b8b8b8;
+  -webkit-box-shadow: 0 0 5px #cecece;
+  box-shadow: 0 0 5px #cecece;
+  border-radius: 4px;
+  transition: all 0.5s ease-in-out;
+}
+
+.doc-img-box:hover {
+  -webkit-box-shadow: 0 0 9px #b8b8b8;
+  box-shadow: 0 0 9px #b8b8b8;
 }
 
 p + div.doc-img-box {
