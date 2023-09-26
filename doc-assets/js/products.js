@@ -99,11 +99,11 @@ $(function () {
   var templatesProductsData = [
     // Add a new row below this comment.
 
-    ["Activism Buddies - Social Campaign & Non Profit", $themeForestUrl + "activism-buddies-social-campaign-non-profit-html5-template/22432719", "activism_buddies.jpg"],
-    ["Appeal - Petition Template", $themeForestUrl + "appeal-petition-html5-template/16935278", "appeal.jpg"],
-    ["Aqua Shatar - Professional Swim Academy", $themeForestUrl + "aqua-shatar-professional-swim-academy-html5-template/22314311", "aqua_shatar.jpg"],
-    ["Auto Repair - Mechanic Center", $themeForestUrl + "auto-repair-maintenance-and-mechanic-center-html5-template/20375120", "auto_repair_template.jpg"],
-    ["Banizoo - Business Service Template", $themeForestUrl + "banizoo-business-service-html5-template/22463113", "banizoo.jpg"],
+    ["Activism Buddies - Social Campaign & Non Profit", "https://1.envato.market/activism-buddies-html", "activism_buddies.jpg"],
+    ["Appeal - Petition Template", "https://1.envato.market/appeal-html", "appeal.jpg"],
+    ["Aqua Shatar - Professional Swim Academy", "https://1.envato.market/aqua-shatar-html", "aqua_shatar.jpg"],
+    ["Auto Repair - Mechanic Center", "https://1.envato.market/auto-repair-html", "auto_repair_template.jpg"],
+    ["Banizoo - Business Service Template", "https://1.envato.market/banizoo-html", "banizoo.jpg"],
     ["Bicycle Fix - Bicycle Repair Center", $themeForestUrl + "bicycle-fix-bicycle-repair-maintenance-and-tuneups-shop-html5-template/20135309", "bicycle_fix_template.jpg"],
     ["Cobbler Master - Shoe Repair Center", $themeForestUrl + "cobbler-mastershoe-repair-and-leather-accessories-service-center/20722930", "cobbler_template.jpg"],
     ["Dynamism - Activism Template", $themeForestUrl + "dynamism-responsive-activism-html5-template/17443407", "dynamism.jpg"],
