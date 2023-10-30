@@ -119,11 +119,11 @@ $(function () {
     ["Pet Care - Animal Center", $themeForestUrl + "pet-care-responsive-html5-template/19999552", "pet_care.jpg"],
     ["Political Buddies - Election Campaign & Activism", $themeForestUrl + "political-buddies-election-campaign-activism-html5-template/21471300", "political_buddies.jpg"],
     ["Quala Coat - Law Firm & Lawyers", $themeForestUrl + "quala-coat-law-firm-lawyers-html5-template/22526010", "quala_coat.jpg"],
-    ["Repair Geek - Laptop Service Center ", $themeForestUrl + "repair-geek-laptop-and-computer-fixing-service-center-html5-template/20615230", "repair_geek_template.jpg"],
-    ["SmartFix - Computer Repair Center", $themeForestUrl + "smartfix-computer-repair-center-html5-template/25748439", "smart_fix.jpg"],
-    ["Senior Care - Senior Citizens Support", $themeForestUrl + "senior-care-senior-citizens-elders-support-html5-template/19530660", "srcare_template.jpg"],
-    ["Wish - Fundraising & Non-Profit", $themeForestUrl + "wish-charity-fundraising-nonprofit-html5-template/19295978", "wish.jpg"],
-    ["Restore - Digital Repair Shop", $themeForestUrl + "restore-computer-mobile-digital-repair-shop-html5-template/19158607", "restore.jpg"],
+    ["Repair Geek - Laptop Service Center ", "https://1.envato.market/repair-geek-html", "repair_geek_template.jpg"],
+    ["SmartFix - Computer Repair Center", "https://1.envato.market/smart-fix-html", "smart_fix.jpg"],
+    ["Senior Care - Senior Citizens Support", "https://1.envato.market/senlor-care-html", "srcare_template.jpg"],
+    ["Wish - Fundraising & Non-Profit", "https://1.envato.market/wish-html", "wish.jpg"],
+    ["Restore - Digital Repair Shop", "https://1.envato.market/restore-html", "restore.jpg"],
   ]
   generateProductsList(templatesProductsData)
 })
