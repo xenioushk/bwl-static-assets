@@ -1858,14 +1858,10 @@ pre.language-php {
 }
 
 .btn-gradient {
-  opacity: 0.3;
+  opacity: 0.9;
   color: #000000;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   background-color: #f2f2f2;
-  background-image: -moz-linear-gradient(top, #ffffff, #f2f2f2);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#f2f2f2));
-  background-image: -webkit-linear-gradient(top, #ffffff, #f2f2f2);
-  background-image: -o-linear-gradient(top, #ffffff, #f2f2f2);
   background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
   background-repeat: repeat-x;
   border-color: #f2f2f2;
