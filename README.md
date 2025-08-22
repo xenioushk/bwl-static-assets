@@ -30,19 +30,21 @@ https://xenioushk.github.io/bwl-static-assets/all-products-image/elite_author_ba
 https://xenioushk.github.io/bwl-static-assets/all-products-image/wordpress_version.jpg
 ```
 
-## WordPress Theme Flyers
+## Flyers
+
+### WordPress Themes
 
 ```code
 https://xenioushk.github.io/bwl-static-assets/flyers/themes
 ```
 
-### Kdesk
+#### Kdesk
 
 ```code
 https://xenioushk.github.io/bwl-static-assets/flyers/themes/kdesk/02_kdesk_home.jpg
 ```
 
-### Senior Care
+#### Senior Care
 
 ```code
 https://xenioushk.github.io/bwl-static-assets/flyers/themes/srcare/01_intro.jpg
@@ -72,9 +74,15 @@ https://xenioushk.github.io/bwl-static-assets/flyers/themes/srcare/06_mobile_fri
 https://xenioushk.github.io/bwl-static-assets/flyers/themes/srcare/07_performance.jpg
 ```
 
-## Template Flyers
+### Templates
 
-### Repair Geek
+#### Mind Trainer
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/templates/mind_trainer/home_style.jpg
+```
+
+#### Repair Geek
 
 ```code
 https://xenioushk.github.io/bwl-static-assets/flyers/templates/repair_geek/01_rg_banner.jpg
@@ -136,7 +144,7 @@ https://xenioushk.github.io/bwl-static-assets/previews/themes/petapalozza.jpg
 https://xenioushk.github.io/bwl-static-assets/previews/themes/dynamism.jpg
 ```
 
-## WordPress Plugins
+### WordPress Plugins
 
 ```code
 https://xenioushk.github.io/bwl-static-assets/previews/plugins/baf.jpg
@@ -170,12 +178,28 @@ https://xenioushk.github.io/bwl-static-assets/previews/plugins/bnm.jpg
 https://xenioushk.github.io/bwl-static-assets/previews/plugins/bpm.jpg
 ```
 
-### Plugin Previews
-
 ### Template Previews
 
-## Thumbs
-
+```code
+https://xenioushk.github.io/bwl-static-assets/previews/templates/repair_geek.jpg
 ```
 
+```code
+https://xenioushk.github.io/bwl-static-assets/previews/templates/wish_charity.jpg
+```
+
+## Last Updated
+
+### Template
+
+#### Mind Trainer
+
+```code
+https://xenioushk.github.io/bwl-static-assets/last-update/templates/mind_trainer/last_update.jpg
+```
+
+#### Repair Geek
+
+```code
+https://xenioushk.github.io/bwl-static-assets/last-update/templates/repair_geek/last_update.jpg
 ```
