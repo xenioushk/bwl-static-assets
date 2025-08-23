@@ -30,6 +30,12 @@ https://xenioushk.github.io/bwl-static-assets/all-products-image/elite_author_ba
 https://xenioushk.github.io/bwl-static-assets/all-products-image/wordpress_version.jpg
 ```
 
+- HTML Version Available
+
+```code
+https://xenioushk.github.io/bwl-static-assets/all-products-image/html_version.jpg
+```
+
 ## Flyers
 
 ### WordPress Themes
@@ -122,6 +128,52 @@ https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/mobile_frie
 
 ```code
 https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/performance.jpg
+```
+
+#### Sharai Khana
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/01_intro.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/02_home_styles.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/03_option_panel.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/04_one_click.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/performance.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/mobile_friendly.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/inner_page_1.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/inner_page_2.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/elements.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/blog_pages.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/sharaikhana/05_features.jpg
 ```
 
 ### Templates
