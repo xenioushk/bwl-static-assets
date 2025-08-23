@@ -44,6 +44,26 @@ https://xenioushk.github.io/bwl-static-assets/flyers/themes
 https://xenioushk.github.io/bwl-static-assets/flyers/themes/kdesk/02_kdesk_home.jpg
 ```
 
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/kdesk/reason_slogan.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/kdesk/bkb_layouts.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/kdesk/bkbm_flyer_1.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/kdesk/bkbm_flyer_2.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/kdesk/07_features.jpg
+```
+
 #### Senior Care
 
 ```code
@@ -63,15 +83,45 @@ https://xenioushk.github.io/bwl-static-assets/flyers/themes/srcare/04_one_click.
 ```
 
 ```code
-https://xenioushk.github.io/bwl-static-assets/flyers/themes/srcare/05_features.jpg
-```
-
-```code
 https://xenioushk.github.io/bwl-static-assets/flyers/themes/srcare/06_mobile_friendly.jpg
 ```
 
 ```code
 https://xenioushk.github.io/bwl-static-assets/flyers/themes/srcare/07_performance.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/srcare/05_features.jpg
+```
+
+#### Reddrop Buddies
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/01_intro.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/02_home_styles.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/03_option_panel.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/04_one_click.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/05_features.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/mobile_friendly.jpg
+```
+
+```code
+https://xenioushk.github.io/bwl-static-assets/flyers/themes/rbuddies/performance.jpg
 ```
 
 ### Templates
